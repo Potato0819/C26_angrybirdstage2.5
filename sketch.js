@@ -52,6 +52,9 @@ function draw(){
 
     box3.display();
     box4.display();
+
+
+	//modified here
     pig3.display();
     log3.display();
 
